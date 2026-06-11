@@ -18,7 +18,7 @@ Because of my background, I build software with an innate understanding of the p
 ---
 ## 📂 Featured Engineering Projects
 
-### 🎮 [Compose GameBoy Interface](https://github.com/quadshotmochaccino/YOUR-REPO-NAME-HERE)
+### 🎮 [Compose GameBoy Interface](https://github.com/quadshotmochaccino/jetpack-compose-gameboy-sandbox)
 A reactive, interactive controller and screen sandbox built entirely using modern declarative UI paradigms.
 * **Key Focus:** State Management, Recomposition Lifecycle, and Reactive UI.
 * **Concepts Applied:** Implements Unidirectional Data Flow via State Hoisting (`remember`, `mutableStateOf`), passing event-driven lambdas up to a single source of truth. Features smooth hardware-accelerated positioning animations using `animateDpAsState`.
