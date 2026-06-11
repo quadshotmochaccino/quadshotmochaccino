@@ -2,7 +2,7 @@
 
 ### 🚀 Technical Sales Leader ➔ 📱 Mobile Android Engineer
 
-I am a software industry veteran with over a decade of commercial experience scaling technical products—ranging from **GenAI platforms** and **database management services** to **enterprise application monitoring software**. I am transitioning this deep technical-adjacent expertise into a hands-on role as a **Mobile Android Engineer**.
+I am a software industry veteran with over a decade of commercial experience scaling technical products -ranging from **GenAI platforms** and **database management services** to **enterprise application monitoring software**. I am transitioning this deep technical-adjacent expertise into a hands-on role as a **Mobile Android Engineer**.
 
 My engineering philosophy is rooted in first principles. I don't copy-paste or rely on boilerplate templates to tell the story; I build my projects **from scratch and from memory** to deeply internalize state mechanics, architectural patterns, and domain modeling. 
 
