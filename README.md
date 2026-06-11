@@ -1,4 +1,4 @@
-# Hi, I'm Will, nice to meet you! 👋
+# Hi, I'm Will, great to meet you! 👋
 
 ### 🚀 Technical Sales Leader ➔ 📱 Mobile Android Engineer
 
